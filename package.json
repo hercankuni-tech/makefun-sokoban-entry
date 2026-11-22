@@ -1,0 +1,5 @@
+{
+  "name": "sokoban-solver-entry",
+  "private": true,
+  "type": "module"
+}
